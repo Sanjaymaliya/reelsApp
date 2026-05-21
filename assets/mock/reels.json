@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Travel Reel",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/700",
+    "likes": 100,
+    "isLiked": true
+  },
+  {
+    "id": 2,
+    "title": "Nature Reel",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+    "thumbnailUrl": "https://fastly.picsum.photos/id/894/400/701.jpg?hmac=bvKBM11Q4MxG-C0AjKeRuhbeouh5xtSfUC1glgeHkx0",
+    "likes": 200,
+    "isLiked": false
+  },
+  {
+    "id": 3,
+    "title": "Elephant Dream",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "thumbnailUrl": "https://fastly.picsum.photos/id/894/400/701.jpg?hmac=bvKBM11Q4MxG-C0AjKeRuhbeouh5xtSfUC1glgeHkx0",
+    "likes": 300,
+    "isLiked": true
+  },
+  {
+    "id": 4,
+    "title": "For Bigger Test",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/701",
+    "likes": 400,
+    "isLiked": true
+  },
+  {
+    "id":   5,
+    "title": "For Bigger Blazes",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/700",
+    "likes": 500,
+    "isLiked": false
+  },
+  {
+    "id": 6,
+    "title": "For Bigger Fun",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/701",
+    "likes": 600,
+    "isLiked": true
+  },
+  {
+    "id": 7,
+    "title": "For Bigger Joyrides",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/700",
+    "likes": 700,
+    "isLiked": false
+  },
+  {
+    "id": 8,
+    "title": "For Bigger Nature",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/701",
+    "likes": 800,
+    "isLiked": false
+  },
+  {
+    "id": 9,
+    "title": "For Bigger Park",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/700",
+    "likes": 900,
+    "isLiked": false
+  },
+  {
+    "id": 10,
+    "title": "For Bigger Joyrides",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+    "thumbnailUrl": "https://picsum.photos/400/701",
+    "likes": 1200,
+    "isLiked": false
+  }
+
+]
